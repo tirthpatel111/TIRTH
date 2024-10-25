@@ -9,7 +9,7 @@ $database = "test";
 
 $conn = mysqli_connect($servername, $username, $password, $database) or die("Error connecting to database");
 
-if (isset($_SESSION['idx'])) {
+if (isset($_SESSION['id'])) {
     $id = $_SESSION['idx'];
 
     // Update the logout_time for the user's most recent login record

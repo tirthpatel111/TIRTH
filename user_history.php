@@ -36,6 +36,5 @@ if ($_SESSION != null) {
 } else {
     header("Location: login.php");
 }
-
-// tirth
+// tirth 
 ?>
