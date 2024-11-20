@@ -105,8 +105,8 @@ button {
             <nav class="navbar">
                 <a href="home.php">Home</a>
                 <a href="about.php">About</a>
-                <a href="shop.php">Product</a>
-                <a href="contect.php">Contect</a>
+                <a href="products.php">Product</a>
+                <a href="contact.php">Contect</a>
                 <a href="user_history.php">History</a>
             </nav>
             </div>
@@ -123,3 +123,4 @@ button {
        
     </div>
 </header>
+
